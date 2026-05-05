@@ -1,1 +1,1 @@
-# git-conflict-challenge --> Ernest Delbecque modification local 
+# git-conflict-challenge -> Ernest Delbecque, modification 
